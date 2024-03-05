@@ -1,0 +1,78 @@
+{
+  "allVideos": [
+    {
+      "id": "74af",
+      "caption": "Stranger Things",
+      "imageURL": "https://images.hdqwalls.com/download/stranger-things-2020-q9-3840x2400.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/b9EkMc79ZSU"
+    },
+    {
+      "id": "3bba",
+      "caption": "Dark",
+      "imageURL": "https://th.bing.com/th/id/OIP.l3OpwGLEQZmHoQypPLHuvAHaHD?rs=1&pid=ImgDetMain",
+      "youtubeLink": "https://www.youtube.com/embed/rrwycJ08PSA"
+    },
+    {
+      "id": "0687",
+      "caption": "Vampire Dairies",
+      "imageURL": "https://image3.mouthshut.com/images/imagesp/925668617s.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/BmVmhjjkN4E"
+    },
+    {
+      "id": "2e79",
+      "caption": "Friends",
+      "imageURL": "https://www.lovearoundme.com/upload/markdownx/9e75113d-cc03-42f0-a665-03cf9a427897.jpeg",
+      "youtubeLink": "https://www.youtube.com/embed/IEEbUzffzrk"
+    },
+    {
+      "id": "4370",
+      "caption": "The Glory",
+      "imageURL": "https://assets.gadgets360cdn.com/pricee/assets/product/202212/The-Glory_1671428259.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/rvJP7sAhXk4"
+    },
+    {
+      "id": "1ca1",
+      "caption": "The house of card",
+      "imageURL": "https://th.bing.com/th/id/R.4deec31395eae9ae33004e3358c6ee55?rik=QnTU%2fjgUjEU3yg&riu=http%3a%2f%2fcdn.collider.com%2fwp-content%2fuploads%2f2016%2f02%2fhouse-of-cards-season-4-poster.jpg&ehk=MDq%2fP9dKcxWTPxaK7e%2bK5%2bfdATaOgBJiaJ9d2zQcDCY%3d&risl=&pid=ImgRaw&r=0",
+      "youtubeLink": "https://www.youtube.com/embed/8QnMmpfKWvo"
+    }
+  ],
+  "categories": [
+    {
+      "id": "7447",
+      "categoryName": "Us TV Dramas",
+      "allVideos": [
+        {
+          "id": "0687",
+          "caption": "Vampire Dairies",
+          "imageURL": "https://image3.mouthshut.com/images/imagesp/925668617s.jpg",
+          "youtubeLink": "https://www.youtube.com/embed/BmVmhjjkN4E"
+        },
+        {
+          "id": "4370",
+          "caption": "The Glory",
+          "imageURL": "https://assets.gadgets360cdn.com/pricee/assets/product/202212/The-Glory_1671428259.jpg",
+          "youtubeLink": "https://www.youtube.com/embed/rvJP7sAhXk4"
+        }
+      ]
+    },
+    {
+      "id": "e662",
+      "categoryName": "Popular on Netflix",
+      "allVideos": [
+        {
+          "id": "2e79",
+          "caption": "Friends",
+          "imageURL": "https://www.lovearoundme.com/upload/markdownx/9e75113d-cc03-42f0-a665-03cf9a427897.jpeg",
+          "youtubeLink": "https://www.youtube.com/embed/IEEbUzffzrk"
+        },
+        {
+          "id": "74af",
+          "caption": "Stranger Things",
+          "imageURL": "https://images.hdqwalls.com/download/stranger-things-2020-q9-3840x2400.jpg",
+          "youtubeLink": "https://www.youtube.com/embed/b9EkMc79ZSU"
+        }
+      ]
+    }
+  ]
+}
